@@ -21,10 +21,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Decode a Morse code message <a name="about-project"></a>
+# 📖 Enumerable  <a name="about-project"></a>
 
-**Decode a Morse code message** is an application that can be used to decode sentences weitten in morse to
-words in the alphabet.
+**Enumerable** is a module that implements a subset of the functionality of Enumerable
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -55,7 +54,7 @@ words in the alphabet.
 To get a local copy up and running, follow these steps:
 - Create a local directory where you can clone the project
 - Clone the project to your directory by running
-  - `https://github.com/Lucash2022/Morse_code_message.git`
+  - `https://github.com/Lucash2022/Enumerable.git`
 - Run the code with ruby
 
 ### Prerequisites
@@ -72,7 +71,7 @@ Clone this repository to your desired folder:
 
 - Create a local directory where you can clone the project
 - Clone the project to your directory by running
-  - `https://github.com/Lucash2022/Morse_code_message.git`
+  - `https://github.com/Lucash2022/Enumrable.git`
 
 ### Install
 
@@ -95,7 +94,7 @@ Install this project with:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **Encode text to morse code**
+- [ ] **More enumarable features**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -121,6 +120,9 @@ If you like this project kindly leave a ⭐
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 I would like to thank Microverse for the great resources shared.
+
+
+I also would like to thank [Houda Mzari](https://github.com/houdamzari) for all her help with linters setup
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
