@@ -122,7 +122,7 @@ If you like this project kindly leave a ⭐
 I would like to thank Microverse for the great resources shared.
 
 
-I also would like to thank [Houda Mzari]() for all her help with linters setup
+I also would like to thank [Houda Mzari](https://github.com/houdamzari) for all her help with linters setup
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
